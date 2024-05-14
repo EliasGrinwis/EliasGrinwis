@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="250" src="https://eliasgrinwis.be/_next/image?url=%2Favatar.webp&w=256&q=75"  />
-</div>
+<img align="right" height="230" src="https://eliasgrinwis.be/_next/image?url=%2Favatar.webp&w=256&q=75"  />
 
 ###
 
@@ -8,7 +6,7 @@
 
 ###
 
-<p align="left">Ik ben een 20-jarige student aan de Thomas More hogeschool. Ik heb altijd al interesse gehad in computers en games. Daarom ben ik IT gaan studeren. Momenteel zit ik in mijn laatste jaar van mijn opleiding Application Development. Ik ben gepassioneerd door softwareontwikkeling en sta altijd open voor nieuwe leerkansen.</p>
+<p align="left">I am a 20-year-old student at Thomas More University of Applied Computer Science. I have always been interested in computers and games. That's why I decided to study IT. Currently, I am in my final year of my Application Development program. I am passionate about software development and always open to new learning opportunities.</p>
 
 ###
 
@@ -20,7 +18,7 @@
 
 ###
 
-<h2 align="left">Skills</h2>
+<h2 align="left">Skills & Technologies</h2>
 
 ###
 
@@ -61,8 +59,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=eliasgrinwis&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eliasgrinwis&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=eliasgrinwis&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eliasgrinwis&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
